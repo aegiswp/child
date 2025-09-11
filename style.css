@@ -1,22 +1,16 @@
-/*
-Theme Name:   Aegis Child Theme
-Theme URI:    https://github.com/atmostfear-entertainment/aegis-child
-Description:  Aegis Child Theme
-Author:       Atmostfear Entertainment
-Author URI:   https://www.atmostfear-entertainment.com/
-Template:     aegis
-Version:      1.0.0
-License:      GNU General Public License v2 or later
-License URI:  http: //www.gnu.org/licenses/gpl-2.0.html
-License:      GNU General Public License v2 or later
-Text Domain:  Aegis Child Theme
-Tags:         accessibility-ready, blog, block-editor-patterns, block-editor-styles, block-patterns, block-styles, custom-colors, custom-logo, custom-menu, editor-style, featured-images, full-site-editing, one-column, portfolio, rtl-language-support, sticky-post, style-variations, template-editing, threaded-comments, translation-ready, two-columns, wide-blocks, woocommerce
-
-Aegis, (c) 2022-2003 Atmostfear Entertainment SAS
-Aegis is distributed under the terms of the GNU GPL.
-*/
-
 /**
- * Add your custom CSS code below this comment.
- * Only make edits to this file if you have direct access to it on your server, such as to override styles or fix issues.
+ * Theme Name: Aegis Child Theme
+ * Theme URI: https://github.com/aegiswp/theme-child
+ * Author: Atmostfear Entertainment
+ * Author URI: https://www.atmostfear-entertainmen.com/
+ * Description: A blank starter child theme for the Aegis Theme.
+ * Template: aegis
+ * Requires at least: 6.6
+ * Tested up to: 6.8.2
+ * Requires PHP: 7.4
+ * Version: 1.0.0
+ * License: GPL-2.0-or-later
+ * License URI: https://www.gnu.org/licenses/gpl-2.0.html
+ * Text Domain: aegis-child
+ * Tags: full-site-editing, block-patterns
  */
