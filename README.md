@@ -1,8 +1,8 @@
 # Aegis Child Theme
 
-Welcome to the Aegis Child Theme repository. This child theme is designed to extend the features of its [parent theme]https://github.com/aegiswp/theme), ensuring that your customizations remain unaffected when the parent theme is updated. This README provides a comprehensive guide on how to use and install the Aegis Child Theme.
+Welcome to the Aegis Child Theme repository. This child theme is designed to extend the features of its [parent theme](https://github.com/aegiswp/theme), ensuring that your customizations remain unaffected when the parent theme is updated. This README provides a comprehensive guide on how to use and install the Aegis Child Theme.
 
-![Aegis Child Theme](https://github.com/atmostfear-entertainment/aegis/assets/34287288/efac838a-af27-4781-bca2-277156026770)
+![Aegis Child Theme](https://github.com/user-attachments/assets/f6108dab-38e7-41b1-b020-5100fa2b36c5)
 
 ## Table of Contents
 - [Introduction](#introduction)
