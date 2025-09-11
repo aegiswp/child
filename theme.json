@@ -1,4 +1,6 @@
 {
-    "version": 2,
-    "settings": {}
+  "$schema": "https://schemas.wp.org/wp/6.8/theme.json",
+  "version": 3,
+  "settings": {},
+  "styles": {}
 }
