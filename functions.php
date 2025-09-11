@@ -18,19 +18,9 @@
  * @package aegis
  * @author  Atmostfear Entertainment
  * @license GNU General Public License v2 or later
- * @link    https://github.com/atmostfear-entertainment/aegis-child
- * @since   1.0.0
+ * @link    https://github.com/aegiswp/theme-child
+ * @since   1.0.1
  */
-
-// This is the 'aegis_child_styles' function.
-function aegis_child_styles() {
-    // This line enqueues a style with the handle 'aegis-child-style'.
-    // It uses the 'get_stylesheet_uri()' function to get the URI of the child theme's style.css file.
-    wp_enqueue_style( 'aegis-child-style', get_stylesheet_uri() );
-}
-
-// This code hooks the 'aegis_child_styles' function to the 'wp_enqueue_scripts' action.
-add_action( 'wp_enqueue_scripts', 'aegis_child_styles' );
 
 /**
  * Add your custom PHP code below this comment.
