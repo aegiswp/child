@@ -1,6 +1,6 @@
 # Aegis Child Theme
 
-Welcome to the Aegis Child Theme repository. This child theme is designed to extend the features of its [parent theme](https://github.com/atmostfear-entertainment/aegis), ensuring that your customizations remain unaffected when the parent theme is updated. This README provides a comprehensive guide on how to use and install the Aegis Child Theme.
+Welcome to the Aegis Child Theme repository. This child theme is designed to extend the features of its [parent theme]https://github.com/aegiswp/theme), ensuring that your customizations remain unaffected when the parent theme is updated. This README provides a comprehensive guide on how to use and install the Aegis Child Theme.
 
 ![Aegis Child Theme](https://github.com/atmostfear-entertainment/aegis/assets/34287288/efac838a-af27-4781-bca2-277156026770)
 
@@ -16,11 +16,13 @@ Welcome to the Aegis Child Theme repository. This child theme is designed to ext
 - [License](#license)
 
 ## Introduction
-Child themes are a safe way to modify a theme without actually making changes to the parent theme’s files. The Aegis Child Theme works in tandem with its [parent theme](https://github.com/atmostfear-entertainment/aegis), enabling you to make adjustments without worrying about future updates.
+
+Child themes are a safe way to modify a theme without actually making changes to the parent theme’s files. The Aegis Child Theme works in tandem with its [parent theme](https://github.com/aegiswp/theme), enabling you to make adjustments without worrying about future updates.
 
 ## Prerequisites
+
 Before installing the Aegis Child Theme, ensure you have:
-- The [Aegis](https://github.com/atmostfear-entertainment/aegis) theme installed and activated.
+- The [Aegis Theme](https://github.com/aegiswp/theme) installed and activated.
 - A working WordPress installation.
 
 ## Installation
@@ -43,18 +45,23 @@ Before installing the Aegis Child Theme, ensure you have:
 7. You should see the Aegis Child Theme listed. Click `Activate`.
 
 ## Usage
+
 After activating the Aegis Child Theme, you can start customizing it:
-1. Go to `Appearance` > `Customize` in your WordPress dashboard.
+
+1. Go to `Appearance` > `Editor` in your WordPress dashboard.
 2. All customization options will be available here. Any changes you make will not affect the parent theme.
-3. Do not forget to click `Publish` after making your desired changes.
+3. Do not forget to click `Save` after making your desired changes.
 
 **Note**: If there are template files in the child theme, they will override the equivalent file in the parent theme.
 
 ## Support
-For support, please raise [an issue](https://github.com/atmostfear-entertainment/aegis-child/issues) in the GitHub repository.
+
+For support, please raise [an issue](https://github.com/aegiswp/theme-child/issues) in the GitHub repository.
 
 ## Contributing
-Contributions are welcome! Please read our [CONTRIBUTING.md](https://github.com/atmostfear-entertainment/aegis/blob/main/CONTRIBUTING.md) file for guidelines on how to contribute.
+
+Contributions are welcome! Please read our [CONTRIBUTING.md](https://github.com/aegiswp/theme/blob/main/CONTRIBUTING.md) file for guidelines on how to contribute.
 
 ## License
+
 The Aegis Child Theme is licensed under the GNU General Public License v2.0. For more details, see the [LICENSE](LICENSE) file.
