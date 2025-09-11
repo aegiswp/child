@@ -1,10 +1,11 @@
 {
   "name": "@aegiswp/aegis-child",
+  "version": "1.0.1",
   "description": "Aegis Child Theme",
   "author": "Atmostfear Entertainment",
   "license": "GPL-2.0-or-later",
   "scripts": {
     "pot": "wp i18n make-pot ./ languages/aegis-child.pot --exclude='wp,wp-content,vendor,tests,node_modules,build'",
-    "zip": "del ..\\..\\aegis-child.zip && zip -r ..\\..\\aegis-child.zip . -x \"*.git*\" \"*node_modules*\" \"*.DS_Store*\" \"*build*\""
+    "zip": "zip -r ../../aegis-child.zip . -x '*.git*' '*node_modules*' '*.DS_Store*' '*build*'"
   }
 }
