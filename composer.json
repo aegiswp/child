@@ -1,0 +1,17 @@
+{
+  "name": "aegiswp/theme-child",
+  "description": "Aegis Child Theme",
+  "license": "GPL-2.0-or-later",
+  "authors": [
+    {
+      "name": "Atmostfear Entertainment",
+      "homepage": "https://www.atmostfear-entertainment.com/aegis/"
+    }
+  ],
+  "type": "wordpress-theme",
+  "scripts": {
+    "pot": "wp i18n make-pot ./ languages/aegis-child.pot --exclude='wp,wp-content,vendor,tests,node_modules,build'",
+    "zip": "del ..\\..\\aegis-child.zip && zip -r ..\\..\\aegis-child.zip . -x '*.git*' '*node_modules*' '*.DS_Store*' '*build*'"
+  },
+  "minimum-stability": "dev"
+}
