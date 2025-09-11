@@ -11,7 +11,7 @@
   "type": "wordpress-theme",
   "scripts": {
     "pot": "wp i18n make-pot ./ languages/aegis-child.pot --exclude='wp,wp-content,vendor,tests,node_modules,build'",
-    "zip": "del ..\\..\\aegis-child.zip && zip -r ..\\..\\aegis-child.zip . -x '*.git*' '*node_modules*' '*.DS_Store*' '*build*'"
+    "zip": "zip -r ../../aegis-child.zip . -x '*.git*' '*node_modules*' '*.DS_Store*' '*build*'"
   },
   "minimum-stability": "dev"
 }
