@@ -40,7 +40,7 @@ After activating the Aegis Child Theme, you can start customizing it:
 
 1. Go to `Appearance` > `Editor` in your WordPress dashboard.
 2. All customization options will be available here. Any changes you make will not affect the parent theme.
-3. Do not forget to click `Publish` after making your desired changes.
+3. Do not forget to click `Save` after making your desired changes.
 
 Note: If there are template files in the child theme, they will override the equivalent file in the parent theme.
 
@@ -53,6 +53,9 @@ For support, please raise an issue in the GitHub repository.
 Contributions are welcome! Please read our CONTRIBUTING.md file for guidelines on how to contribute.
 
 == Changelog ==
+
+= 1.0.1 - 2025 =
+* Set the version number to 1.0.1.
 
 = 1.0.0 - 2025 =
 * Initial release
