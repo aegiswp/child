@@ -1,16 +1,30 @@
-/**
- * Theme Name: Aegis Child Theme
+/*
+ * Theme Name: Aegis Child
  * Theme URI: https://github.com/aegiswp/theme-child
  * Author: Atmostfear Entertainment
  * Author URI: https://www.atmostfear-entertainment.com/
- * Description: A blank starter child theme for the Aegis Theme.
+ * Description: A pristine architectural canvas. Inherits the full Aegis core while providing a blank, unopinionated foundation for custom deployment.
  * Template: aegis
  * Requires at least: 6.6
- * Tested up to: 6.8.2
+ * Tested up to: 6.9
  * Requires PHP: 7.4
- * Version: 1.0.1
- * License: GPL-2.0-or-later
- * License URI: https://www.gnu.org/licenses/gpl-2.0.html
+ * Version: 1.0.2
+ * License: GPL v3.0
+ * License URI: http://www.gnu.org/licenses/gpl-3.0.html
  * Text Domain: aegis-child
  * Tags: full-site-editing, block-patterns
+ */
+
+ /**
+ * Block Theme Styling
+ *
+ * In a block theme, this file is primarily used for the theme's header
+ * information. Most styling is handled by `theme.json` and through the
+ * block editor's Styles interface.
+ *
+ * Custom CSS can still be added here if needed, but the recommended
+ * approach is to use `theme.json` for global styles and block-specific
+ * styles for components.
+ *
+ * @link https://developer.wordpress.org/themes/advanced-topics/theme-json/
  */
