@@ -15,11 +15,10 @@
  * For more information on child themes, refer to the official WordPress documentation:
  * @link https://developer.wordpress.org/themes/advanced-topics/child-themes/
  *
- * @package aegis
- * @author  Atmostfear Entertainment
- * @license GNU General Public License v2 or later
- * @link    https://github.com/aegiswp/theme-child
+ * @package Aegis
  * @since   1.0.1
+ * @author  Atmostfear Entertainment
+ * @link    https://github.com/aegiswp/theme-child
  */
 
 /**
