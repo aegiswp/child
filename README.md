@@ -1,10 +1,12 @@
 # Aegis Child Theme
 
-Welcome to the Aegis Child Theme repository. This child theme is designed to extend the features of its [parent theme](https://github.com/aegiswp/theme), ensuring that your customizations remain unaffected when the parent theme is updated. This README provides a comprehensive guide on how to use and install the Aegis Child Theme.
+Welcome to the Aegis Child Theme repository. 
+
+This child theme is designed to extend the features of its [parent theme](https://github.com/aegiswp/theme), ensuring that your customizations remain unaffected when the parent theme is updated. This README provides a comprehensive guide on how to use and install the Aegis Child Theme.
 
 ![Aegis Child Theme](https://github.com/user-attachments/assets/f6108dab-38e7-41b1-b020-5100fa2b36c5)
 
-## Table of Contents
+##### Table of Contents
 - [Introduction](#introduction)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
@@ -14,6 +16,7 @@ Welcome to the Aegis Child Theme repository. This child theme is designed to ext
 - [Support](#support)
 - [Contributing](#contributing)
 - [License](#license)
+
 
 ## Introduction
 
@@ -52,16 +55,18 @@ After activating the Aegis Child Theme, you can start customizing it:
 2. All customization options will be available here. Any changes you make will not affect the parent theme.
 3. Do not forget to click `Save` after making your desired changes.
 
-**Note**: If there are template files in the child theme, they will override the equivalent file in the parent theme.
-
 ## Support
 
 For support, please raise [an issue](https://github.com/aegiswp/theme-child/issues) in the GitHub repository.
 
 ## Contributing
 
-Contributions are welcome! Please read our [CONTRIBUTING.md](https://github.com/aegiswp/theme/blob/main/CONTRIBUTING.md) file for guidelines on how to contribute.
+Please read our [CONTRIBUTING.md](https://github.com/aegiswp/theme/blob/main/CONTRIBUTING.md) file for guidelines on how to contribute.
 
 ## License
 
-The Aegis Child Theme is licensed under the GNU General Public License v2.0. For more details, see the [LICENSE](LICENSE) file.
+The Aegis Child Theme is licensed under the GNU General Public License v3.0. For more details, see the [LICENSE](LICENSE) file.
+
+## Suggestions?
+
+To propose improvements to this repository, please open an [issue](https://github.com/aegiswp/theme-child/issues) or [pull request](https://github.com/aegiswp/theme-child/pulls).
