@@ -16,15 +16,18 @@
  */
 
  /**
- * Block Theme Styling
+ * Child Theme Styling
  *
- * In a block theme, this file is primarily used for the theme's header
- * information. Most styling is handled by `theme.json` and through the
- * block editor's Styles interface.
+ * This style.css file is for a child theme of Aegis. It allows you
+ * to customize the parent theme's styles.
  *
- * Custom CSS can still be added here if needed, but the recommended
- * approach is to use `theme.json` for global styles and block-specific
- * styles for components.
+ * WordPress loads both the parent and child theme's stylesheets. The child
+ * theme's styles are loaded after the parent theme's styles, allowing you to
+ * override them. Custom CSS can be added here to modify the appearance of
+ * your site.
  *
- * @link https://developer.wordpress.org/themes/advanced-topics/theme-json/
+ * For more information on child themes, please see the WordPress developer
+ * documentation.
+ *
+ * @link https://developer.wordpress.org/themes/advanced-topics/child-themes/
  */
