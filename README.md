@@ -1,11 +1,14 @@
 # Aegis Child Theme
 
-Welcome to the Aegis Child Theme repository. This child theme is designed to extend the features of its [parent theme](https://github.com/aegiswp/theme), ensuring that your customizations remain unaffected when the parent theme is updated. This README provides a comprehensive guide on how to use and install the Aegis Child Theme.
+Welcome to the Aegis Child Theme repository.
+
+A pristine architectural canvas. Inherits the full Aegis core while providing a blank, unopinionated foundation for custom deployment.
+
+This child theme works in tandem with its [parent theme](https://github.com/aegiswp/theme), ensuring that your architectural customizations remain safe during core updates. It offers a secure environment to extend functionality and refine styles without modifying the parent structure.
 
 ![Aegis Child Theme](https://github.com/user-attachments/assets/f6108dab-38e7-41b1-b020-5100fa2b36c5)
 
-## Table of Contents
-- [Introduction](#introduction)
+##### Table of Contents
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
   - [Method 1: Using the WordPress Dashboard](#method-1-using-the-wordpress-dashboard)
@@ -13,11 +16,8 @@ Welcome to the Aegis Child Theme repository. This child theme is designed to ext
 - [Usage](#usage)
 - [Support](#support)
 - [Contributing](#contributing)
+- [Changelog](#changelog)
 - [License](#license)
-
-## Introduction
-
-Child themes are a safe way to modify a theme without actually making changes to the parent theme’s files. The Aegis Child Theme works in tandem with its [parent theme](https://github.com/aegiswp/theme), enabling you to make adjustments without worrying about future updates.
 
 ## Prerequisites
 
@@ -28,7 +28,7 @@ Before installing the Aegis Child Theme, ensure you have:
 ## Installation
 
 ### Method 1: Using the WordPress Dashboard
-1. Download the Aegis Child Theme `.zip` file.
+1. Download the latest `aegis-child.zip` release from the GitHub repository.
 2. Navigate to your WordPress dashboard.
 3. Go to `Appearance` > `Themes` > `Add New`.
 4. Click on `Upload Theme`.
@@ -36,10 +36,10 @@ Before installing the Aegis Child Theme, ensure you have:
 6. After the installation is complete, click `Activate`.
 
 ### Method 2: Using FTP
-1. Extract the Aegis Child Theme `.zip` file.
+1. Extract the `aegis-child.zip` file.
 2. Using an FTP client (like FileZilla), connect to your web server.
 3. Navigate to the `/wp-content/themes/` directory.
-4. Upload the extracted folder here.
+4. Upload the extracted `aegis-child` folder here.
 5. Once uploaded, go to your WordPress dashboard.
 6. Navigate to `Appearance` > `Themes`.
 7. You should see the Aegis Child Theme listed. Click `Activate`.
@@ -52,16 +52,32 @@ After activating the Aegis Child Theme, you can start customizing it:
 2. All customization options will be available here. Any changes you make will not affect the parent theme.
 3. Do not forget to click `Save` after making your desired changes.
 
-**Note**: If there are template files in the child theme, they will override the equivalent file in the parent theme.
-
 ## Support
 
 For support, please raise [an issue](https://github.com/aegiswp/theme-child/issues) in the GitHub repository.
 
 ## Contributing
 
-Contributions are welcome! Please read our [CONTRIBUTING.md](https://github.com/aegiswp/theme/blob/main/CONTRIBUTING.md) file for guidelines on how to contribute.
+Please read our [CONTRIBUTING.md](https://github.com/aegiswp/theme/blob/main/CONTRIBUTING.md) file for guidelines on how to contribute.
+
+## Changelog
+
+### 1.0.2 - 2026-01-19
+* Added GitHub Actions workflow for automated releases.
+* Updated theme branding and description.
+* Updated GPL License to 3.0.
+* Documentation improvements.
+
+### 1.0.1 - 2025-07-11
+* Set the version number to 1.0.1.
+
+### 1.0.0 - 2023-11-01
+* Initial release.
 
 ## License
 
-The Aegis Child Theme is licensed under the GNU General Public License v2.0. For more details, see the [LICENSE](LICENSE) file.
+The Aegis Child Theme is licensed under the GNU General Public License v3.0. For more details, see the [LICENSE](LICENSE) file.
+
+## Suggestions?
+
+To propose improvements to this repository, please open an [issue](https://github.com/aegiswp/theme-child/issues) or [pull request](https://github.com/aegiswp/theme-child/pulls).

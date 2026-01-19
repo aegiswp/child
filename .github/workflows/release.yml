@@ -1,0 +1,39 @@
+name: Generate Theme Zip
+
+on:
+  release:
+    types: [published]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Create Clean Folder
+        run: |
+          mkdir aegis-child
+          # Copy files to the new folder, excluding dev tools, docs, and hidden files
+          rsync -av \
+            --exclude='aegis-child' \
+            --exclude='.git' \
+            --exclude='.github' \
+            --exclude='.DS_Store' \
+            --exclude='node_modules' \
+            --exclude='build' \
+            --exclude='package.json' \
+            --exclude='package-lock.json' \
+            --exclude='composer.json' \
+            --exclude='composer.lock' \
+            --exclude='README.md' \
+            . aegis-child/
+
+      - name: Create Zip File
+        run: zip -r aegis-child.zip aegis-child
+
+      - name: Upload to Release
+        uses: softprops/action-gh-release@v1
+        with:
+          files: aegis-child.zip

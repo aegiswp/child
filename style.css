@@ -1,16 +1,33 @@
-/**
- * Theme Name: Aegis Child Theme
+/*
+ * Theme Name: Aegis Child
  * Theme URI: https://github.com/aegiswp/theme-child
  * Author: Atmostfear Entertainment
  * Author URI: https://www.atmostfear-entertainment.com/
- * Description: A blank starter child theme for the Aegis Theme.
+ * Description: A pristine architectural canvas. Inherits the full Aegis core while providing a blank, unopinionated foundation for custom deployment.
  * Template: aegis
  * Requires at least: 6.6
- * Tested up to: 6.8.2
+ * Tested up to: 6.9
  * Requires PHP: 7.4
- * Version: 1.0.1
- * License: GPL-2.0-or-later
- * License URI: https://www.gnu.org/licenses/gpl-2.0.html
+ * Version: 1.0.2
+ * License: GPL v3.0
+ * License URI: http://www.gnu.org/licenses/gpl-3.0.html
  * Text Domain: aegis-child
  * Tags: full-site-editing, block-patterns
+ */
+
+ /**
+ * Child Theme Styling
+ *
+ * This style.css file is for a child theme of Aegis. It allows you
+ * to customize the parent theme's styles.
+ *
+ * WordPress loads both the parent and child theme's stylesheets. The child
+ * theme's styles are loaded after the parent theme's styles, allowing you to
+ * override them. Custom CSS can be added here to modify the appearance of
+ * your site.
+ *
+ * For more information on child themes, please see the WordPress developer
+ * documentation.
+ *
+ * @link https://developer.wordpress.org/themes/advanced-topics/child-themes/
  */

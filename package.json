@@ -1,9 +1,9 @@
 {
   "name": "@aegiswp/aegis-child",
-  "version": "1.0.1",
-  "description": "Aegis Child Theme",
+  "version": "1.0.2",
+  "description": "A pristine architectural canvas. Inherits the full Aegis core while providing a blank, unopinionated foundation for custom deployment.",
   "author": "Atmostfear Entertainment",
-  "license": "GPL-2.0-or-later",
+  "license": "GPL-3.0",
   "scripts": {
     "pot": "wp i18n make-pot ./ languages/aegis-child.pot --exclude='wp,wp-content,vendor,tests,node_modules,build'",
     "zip": "zip -r ../../aegis-child.zip . -x '*.git*' '*node_modules*' '*.DS_Store*' '*build*'"
