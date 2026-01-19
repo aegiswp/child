@@ -1,7 +1,7 @@
 {
   "name": "@aegiswp/aegis-child",
   "version": "1.0.2",
-  "description": "Aegis Child Theme",
+  "description": "A pristine architectural canvas. Inherits the full Aegis core while providing a blank, unopinionated foundation for custom deployment.",
   "author": "Atmostfear Entertainment",
   "license": "GPL-3.0",
   "scripts": {
