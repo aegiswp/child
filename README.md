@@ -16,6 +16,7 @@ This child theme works in tandem with its [parent theme](https://github.com/aegi
 - [Usage](#usage)
 - [Support](#support)
 - [Contributing](#contributing)
+- [Changelog](#changelog)
 - [License](#license)
 
 ## Prerequisites
@@ -58,6 +59,20 @@ For support, please raise [an issue](https://github.com/aegiswp/theme-child/issu
 ## Contributing
 
 Please read our [CONTRIBUTING.md](https://github.com/aegiswp/theme/blob/main/CONTRIBUTING.md) file for guidelines on how to contribute.
+
+## Changelog
+
+### 1.0.2 - 2026-01-19
+* Added GitHub Actions workflow for automated releases.
+* Updated theme branding and description.
+* Updated GPL License to 3.0.
+* Documentation improvements.
+
+### 1.0.1 - 2025-07-11
+* Set the version number to 1.0.1.
+
+### 1.0.0 - 2023-11-01
+* Initial release.
 
 ## License
 
