@@ -56,9 +56,9 @@ Please read our CONTRIBUTING.md file for guidelines on how to contribute.
 
 = 1.0.2 - 2026-01-19 =
 * Added GitHub Actions workflow for automated releases.
-* Set the version number to 1.0.2.
-* Code improvements
-* Updated GPL License to 3.0
+* Updated theme branding and description.
+* Updated GPL License to 3.0.
+* Documentation improvements.
 
 = 1.0.1 - 2025-07-11 =
 * Set the version number to 1.0.1.
