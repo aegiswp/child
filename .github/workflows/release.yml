@@ -15,16 +15,19 @@ jobs:
       - name: Create Clean Folder
         run: |
           mkdir aegis-child
-          # Copy files to the new folder, excluding dev tools and hidden files
+          # Copy files to the new folder, excluding dev tools, docs, and hidden files
           rsync -av \
             --exclude='aegis-child' \
             --exclude='.git' \
             --exclude='.github' \
             --exclude='.DS_Store' \
             --exclude='node_modules' \
+            --exclude='build' \
             --exclude='package.json' \
             --exclude='package-lock.json' \
-            --exclude='build' \
+            --exclude='composer.json' \
+            --exclude='composer.lock' \
+            --exclude='README.md' \
             . aegis-child/
 
       - name: Create Zip File
