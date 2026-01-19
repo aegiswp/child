@@ -1,13 +1,14 @@
 # Aegis Child Theme
 
-Welcome to the Aegis Child Theme repository. 
+Welcome to the Aegis Child Theme repository.
 
-This child theme is designed to extend the features of its [parent theme](https://github.com/aegiswp/theme), ensuring that your customizations remain unaffected when the parent theme is updated. This README provides a comprehensive guide on how to use and install the Aegis Child Theme.
+A pristine architectural canvas. Inherits the full Aegis core while providing a blank, unopinionated foundation for custom deployment.
+
+This child theme works in tandem with its [parent theme](https://github.com/aegiswp/theme), ensuring that your architectural customizations remain safe during core updates. It offers a secure environment to extend functionality and refine styles without modifying the parent structure.
 
 ![Aegis Child Theme](https://github.com/user-attachments/assets/f6108dab-38e7-41b1-b020-5100fa2b36c5)
 
 ##### Table of Contents
-- [Introduction](#introduction)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
   - [Method 1: Using the WordPress Dashboard](#method-1-using-the-wordpress-dashboard)
@@ -16,11 +17,6 @@ This child theme is designed to extend the features of its [parent theme](https:
 - [Support](#support)
 - [Contributing](#contributing)
 - [License](#license)
-
-
-## Introduction
-
-Child themes are a safe way to modify a theme without actually making changes to the parent theme’s files. The Aegis Child Theme works in tandem with its [parent theme](https://github.com/aegiswp/theme), enabling you to make adjustments without worrying about future updates.
 
 ## Prerequisites
 
@@ -31,7 +27,7 @@ Before installing the Aegis Child Theme, ensure you have:
 ## Installation
 
 ### Method 1: Using the WordPress Dashboard
-1. Download the Aegis Child Theme `.zip` file.
+1. Download the latest `aegis-child.zip` release from the GitHub repository.
 2. Navigate to your WordPress dashboard.
 3. Go to `Appearance` > `Themes` > `Add New`.
 4. Click on `Upload Theme`.
@@ -39,10 +35,10 @@ Before installing the Aegis Child Theme, ensure you have:
 6. After the installation is complete, click `Activate`.
 
 ### Method 2: Using FTP
-1. Extract the Aegis Child Theme `.zip` file.
+1. Extract the `aegis-child.zip` file.
 2. Using an FTP client (like FileZilla), connect to your web server.
 3. Navigate to the `/wp-content/themes/` directory.
-4. Upload the extracted folder here.
+4. Upload the extracted `aegis-child` folder here.
 5. Once uploaded, go to your WordPress dashboard.
 6. Navigate to `Appearance` > `Themes`.
 7. You should see the Aegis Child Theme listed. Click `Activate`.
