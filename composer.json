@@ -1,7 +1,7 @@
 {
   "name": "aegiswp/theme-child",
-  "description": "Aegis Child Theme",
-  "license": "GPL-2.0-or-later",
+  "description": "A pristine architectural canvas. Inherits the full Aegis core while providing a blank, unopinionated foundation for custom deployment.",
+  "license": "GPL-3.0-or-later",
   "authors": [
     {
       "name": "Atmostfear Entertainment",
@@ -11,7 +11,7 @@
   "type": "wordpress-theme",
   "scripts": {
     "pot": "wp i18n make-pot ./ languages/aegis-child.pot --exclude='wp,wp-content,vendor,tests,node_modules,build'",
-    "zip": "zip -r ../../aegis-child.zip . -x '*.git*' '*node_modules*' '*.DS_Store*' '*build*'"
+    "zip": "zip -r ../../aegis-child.zip . -x '*.git*' '*node_modules*' '*.DS_Store*' '*build*' 'package.json' 'composer.json' 'README.md'"
   },
   "minimum-stability": "dev"
 }
