@@ -9,9 +9,9 @@ License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
 == Description ==
 
-This child theme is designed to extend the features of its parent theme, ensuring that your customizations remain unaffected when the parent theme is updated.
+A pristine architectural canvas. Inherits the full Aegis core while providing a blank, unopinionated foundation for custom deployment.
 
-Child themes are a safe way to modify a theme without actually making changes to the parent theme’s files. The Aegis Child Theme works in tandem with its parent theme, enabling you to make adjustments without worrying about future updates.
+The Aegis Child Theme works in tandem with its parent theme, ensuring that your architectural customizations remain safe during core updates. It offers a secure environment to extend functionality and refine styles without modifying the parent structure.
 
 == Installation ==
 
@@ -19,7 +19,7 @@ Before installing, ensure the Aegis parent theme is installed and activated.
 
 = Using the WordPress Dashboard =
 
-1. Download the Aegis Child Theme `.zip` file from its repository.
+1. Download the Aegis Child Theme `.zip` file.
 2. From your WordPress dashboard, navigate to `Appearance` > `Themes` > `Add New`.
 3. Click on `Upload Theme`.
 4. Choose the downloaded `.zip` file and click `Install Now`.
