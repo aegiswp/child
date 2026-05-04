@@ -2,9 +2,9 @@
 
 Welcome to the Aegis Child Theme repository.
 
-A pristine architectural canvas. Inherits the full Aegis core while providing a blank, unopinionated foundation for custom deployment.
+Aegis Child is the blank canvas of the Aegis framework: clean by default, built for precise overrides, and ready for production customization.
 
-This child theme works in tandem with its [parent theme](https://github.com/aegiswp/theme), ensuring that your architectural customizations remain safe during core updates. It offers a secure environment to extend functionality and refine styles without modifying the parent structure.
+Built to pair with its [parent theme](https://github.com/aegiswp/theme), Aegis Child keeps your customizations isolated from framework updates while giving you a focused layer for templates, patterns, global styles, and project-specific functionality.
 
 ![Aegis Child Theme](https://github.com/user-attachments/assets/f6108dab-38e7-41b1-b020-5100fa2b36c5)
 
@@ -54,7 +54,7 @@ After activating the Aegis Child Theme, you can start customizing it:
 
 ## Support
 
-For support, please raise [an issue](https://github.com/aegiswp/theme-child/issues) in the GitHub repository.
+For support, please raise [an issue](https://github.com/aegiswp/child/issues) in the GitHub repository.
 
 ## Contributing
 
@@ -62,10 +62,16 @@ Please read our [CONTRIBUTING.md](https://github.com/aegiswp/theme/blob/main/CON
 
 ## Changelog
 
+### 1.0.3 - 2026-05-04
+* Clarified parent-child loading requirements, including the Template: aegis directory dependency (/wp-content/themes/aegis).
+* Expanded installation and usage documentation to describe block theme inheritance and child override behavior.
+* Updated theme package metadata to version 1.0.3 and aligned minimum PHP to 8.1.
+* Added root theme compatibility file (index.php) guidance for distribution expectations.
+* Aligned licensing with the parent theme (GNU GPL v2 or later) across headers, package metadata, docs, and LICENSE text.
+
 ### 1.0.2 - 2026-01-19
 * Added GitHub Actions workflow for automated releases.
 * Updated theme branding and description.
-* Updated GPL License to 3.0.
 * Documentation improvements.
 
 ### 1.0.1 - 2025-07-11
@@ -76,8 +82,8 @@ Please read our [CONTRIBUTING.md](https://github.com/aegiswp/theme/blob/main/CON
 
 ## License
 
-The Aegis Child Theme is licensed under the GNU General Public License v3.0. For more details, see the [LICENSE](LICENSE) file.
+The Aegis Child Theme is licensed under the GNU General Public License v2 or later, the same terms as the Aegis parent theme. For the full text, see the [LICENSE](LICENSE) file.
 
 ## Suggestions?
 
-To propose improvements to this repository, please open an [issue](https://github.com/aegiswp/theme-child/issues) or [pull request](https://github.com/aegiswp/theme-child/pulls).
+To propose improvements to this repository, please open an [issue](https://github.com/aegiswp/child/issues) or [pull request](https://github.com/aegiswp/child/pulls).
