@@ -1,9 +1,9 @@
 {
   "name": "@aegiswp/aegis-child",
-  "version": "1.0.2",
-  "description": "A pristine architectural canvas. Inherits the full Aegis core while providing a blank, unopinionated foundation for custom deployment.",
+  "version": "1.0.3",
+  "description": "Aegis Child is the blank canvas of the Aegis framework: clean by default, built for precise overrides, and ready for production customization.",
   "author": "Atmostfear Entertainment",
-  "license": "GPL-3.0",
+  "license": "GPL-2.0-or-later",
   "scripts": {
     "pot": "wp i18n make-pot ./ languages/aegis-child.pot --exclude='wp,wp-content,vendor,tests,node_modules,build'",
     "zip": "zip -r ../../aegis-child.zip . -x '*.git*' '*node_modules*' '*.DS_Store*' '*build*'"
