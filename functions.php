@@ -17,9 +17,9 @@
  * @link https://developer.wordpress.org/themes/advanced-topics/child-themes/
  *
  * @package Aegis
- * @since   1.0.1
+ * @since   1.0.0
  * @author  Atmostfear Entertainment
- * @link    https://github.com/aegiswp/theme-child
+ * @link    https://github.com/aegiswp/child
  */
 
 /**
