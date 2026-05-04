@@ -21,3 +21,6 @@ node_modules/
 *.log
 *.sql
 *.sqlite
+
+# local wiki drafts (do not commit)
+wiki/
