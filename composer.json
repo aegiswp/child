@@ -1,7 +1,7 @@
 {
   "name": "aegiswp/theme-child",
-  "description": "A pristine architectural canvas. Inherits the full Aegis core while providing a blank, unopinionated foundation for custom deployment.",
-  "license": "GPL-3.0-or-later",
+  "description": "Aegis Child is the blank canvas of the Aegis framework: clean by default, built for precise overrides, and ready for production customization.",
+  "license": "GPL-2.0-or-later",
   "authors": [
     {
       "name": "Atmostfear Entertainment",
