@@ -5,17 +5,17 @@
  * Author URI: https://www.atmostfear-entertainment.com/
  * Description: Aegis Child is the blank canvas of the Aegis framework: clean by default, built for precise overrides, and ready for production customization.
  * Template: aegis
- * Requires at least: 6.6
- * Tested up to: 6.9
+ * Requires at least: 7.0
+ * Tested up to: 7.1.3
  * Requires PHP: 8.1
- * Version: 1.0.3
+ * Version: 1.0.4
  * License: GNU General Public License v2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain: aegis-child
  * Tags: full-site-editing, block-patterns
- */
+*/
 
- /**
+/**
  * Child Theme Styling
  *
  * This style.css file is for a child theme of Aegis. It allows you

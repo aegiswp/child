@@ -1,9 +1,9 @@
 === Aegis Child Theme ===
 Contributors: atmostfearentertainment
-Requires at least: 6.6
-Tested up to: 6.9
+Requires at least: 7.0
+Tested up to: 7.1.3
 Requires PHP: 8.1
-Stable tag: 1.0.3
+Stable tag: 1.0.4
 License: GNU General Public License v2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 Tags: full-site-editing, block-patterns
@@ -57,6 +57,13 @@ For support, please raise an issue in the GitHub repository.
 Please read our CONTRIBUTING.md file for guidelines on how to contribute.
 
 == Changelog ==
+
+See CHANGELOG.md for the full history.
+
+= 1.0.4 - 2026-10-27 =
+* Aligned WordPress and PHP compatibility headers with the Aegis parent theme (Requires at least: 7.0, Tested up to: 7.1.3, PHP 8.1).
+* Updated theme.json schema to https://schemas.wp.org/wp/7.1/theme.json.
+* Added root CHANGELOG.md for Keep a Changelog tracking.
 
 = 1.0.3 - 2026-05-04 =
 * Clarified parent-child loading requirements, including the Template: aegis directory dependency (/wp-content/themes/aegis).

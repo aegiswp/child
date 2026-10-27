@@ -19,6 +19,8 @@ Built to pair with its [parent theme](https://github.com/aegiswp/theme), Aegis C
 - [Changelog](#changelog)
 - [License](#license)
 
+Full release notes also live in [CHANGELOG.md](CHANGELOG.md).
+
 ## Prerequisites
 
 Before installing the Aegis Child Theme, ensure you have:
@@ -61,6 +63,13 @@ For support, please raise [an issue](https://github.com/aegiswp/child/issues) in
 Please read our [CONTRIBUTING.md](https://github.com/aegiswp/theme/blob/main/CONTRIBUTING.md) file for guidelines on how to contribute.
 
 ## Changelog
+
+See [CHANGELOG.md](CHANGELOG.md) for the full history.
+
+### 1.0.4 - 2026-10-27
+* Aligned WordPress and PHP compatibility headers with the Aegis parent theme (`Requires at least: 7.0`, `Tested up to: 7.1.3`, PHP 8.1).
+* Updated `theme.json` `$schema` to `https://schemas.wp.org/wp/7.1/theme.json`.
+* Added root `CHANGELOG.md` for Keep a Changelog tracking.
 
 ### 1.0.3 - 2026-05-04
 * Clarified parent-child loading requirements, including the Template: aegis directory dependency (/wp-content/themes/aegis).

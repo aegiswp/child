@@ -1,6 +1,6 @@
 {
   "name": "@aegiswp/aegis-child",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Aegis Child is the blank canvas of the Aegis framework: clean by default, built for precise overrides, and ready for production customization.",
   "author": "Atmostfear Entertainment",
   "license": "GPL-2.0-or-later",
